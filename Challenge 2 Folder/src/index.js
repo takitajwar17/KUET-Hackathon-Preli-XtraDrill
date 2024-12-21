@@ -1,18 +1,22 @@
 require('dotenv').config();
 const express = require('express');
 const bodyParser = require('body-parser');
-const { Groq } = require('groq-sdk');
 
 const app = express();
 const PORT = process.env.PORT || 3000;
 
+// Import routes
+const ingredientRoutes = require('./routes/ingredients');
+const recipeRoutes = require('./routes/recipes');
+const chatbotRoutes = require('./routes/chatbot');
+
 // Middleware
 app.use(bodyParser.json());
 
-// Initialize Groq client
-const groq = new Groq({
-    apiKey: process.env.GROQ_API_KEY
-});
+// Routes
+app.use('/api/ingredients', ingredientRoutes);
+app.use('/api/recipes', recipeRoutes);
+app.use('/api/chatbot', chatbotRoutes);
 
 // Basic route
 app.get('/', (req, res) => {

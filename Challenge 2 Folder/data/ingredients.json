@@ -1,1 +1,9 @@
-[]
+[
+  {
+    "id": "1734785128504",
+    "name": "tomato",
+    "quantity": 5,
+    "unit": "pieces",
+    "updatedAt": "2024-12-21T12:45:28.505Z"
+  }
+]
