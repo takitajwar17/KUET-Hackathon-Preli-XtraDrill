@@ -203,6 +203,7 @@ The project includes a comprehensive test suite covering all major functionaliti
 ```bash
 npm test
 ```
+![alt text](image-1.png)
 
 Test coverage includes:
 - Recipe management (text & image)
