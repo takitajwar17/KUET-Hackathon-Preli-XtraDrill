@@ -23,7 +23,11 @@ app.get('/', (req, res) => {
     res.json({ message: "Welcome to Mofa's Kitchen Buddy API" });
 });
 
-// Start server
-app.listen(PORT, () => {
-    console.log(`Server is running on port ${PORT}`);
-});
+// Start server only if not in test environment
+if (process.env.NODE_ENV !== 'test') {
+    app.listen(PORT, () => {
+        console.log(`Server is running on port ${PORT}`);
+    });
+}
+
+module.exports = app;
