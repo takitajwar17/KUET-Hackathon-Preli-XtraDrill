@@ -7,7 +7,7 @@ A comprehensive recipe management system that allows users to manage recipes, in
 - Recipe management with text and image upload
 - OCR-powered recipe extraction from images
 - Ingredient inventory management
-- AI-powered recipe recommendations
+- AI-powered recipe recommendations using Groq
 - Comprehensive test suite
 - RESTful API endpoints
 
@@ -21,7 +21,7 @@ You can test all the APIs using our Postman collection:
 
 - Node.js (v14 or higher)
 - Tesseract OCR
-- GROQ API Key for AI recommendations
+- Groq API Key (for AI recommendations)
 
 ## Installation
 
@@ -41,9 +41,24 @@ npm install
      4. Restart your terminal
 
 4. Set up environment variables:
+Create a `.env` file in the root directory with:
 ```bash
+PORT=3000
 GROQ_API_KEY=your_api_key_here
 ```
+
+5. Get Groq API Key:
+   - Visit [Groq](https://groq.com/)
+   - Sign up for an account
+   - Generate an API key from your dashboard
+   - Add the key to your `.env` file
+
+6. Start the development server:
+```bash
+npm run dev
+```
+
+The server will start on `http://localhost:3000`
 
 ## API Documentation
 
