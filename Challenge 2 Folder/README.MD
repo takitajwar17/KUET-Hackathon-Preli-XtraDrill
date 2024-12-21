@@ -41,7 +41,7 @@ npm install
      4. Restart your terminal
 
 4. Set up environment variables:
-Create a `.env` file in the root directory with:
+Create a `.env` file in the `Chellenge 2 Folder` directory with:
 ```bash
 PORT=3000
 GROQ_API_KEY=your_api_key_here
