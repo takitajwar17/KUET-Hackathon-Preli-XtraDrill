@@ -1,9 +1,1361 @@
-
-
-Chocolate Cake Recipe
+Tomato Pasta
 Ingredients:
-- Chocolate
+- Pasta
+- Tomatoes
+- Garlic
+- Olive oil
+- Basil
+- Salt and pepper
 
-Vanilla Cake Recipe
+Instructions:
+1. Boil pasta in salted water
+2. Sauté garlic in olive oil
+3. Add chopped tomatoes
+4. Season with salt and pepper
+5. Mix with pasta and garnish with basil
+
+Chocolate Cake
 Ingredients:
+- 2 cups flour
+- 2 cups sugar
+- 3/4 cup cocoa powder
+- 2 eggs
+- 1 cup milk
+- 1/2 cup vegetable oil
+- 2 tsp vanilla extract
+
+Instructions:
+1. Mix dry ingredients
+2. Add wet ingredients
+3. Bake at 350°F for 30 minutes
+4. Let cool before frosting
+
+Chicken Curry
+Ingredients:
+- Chicken pieces
+- Onions
+- Tomatoes
+- Ginger-garlic paste
+- Curry powder
+- Turmeric
+- Oil
+- Salt
+
+Instructions:
+1. Sauté onions until golden
+2. Add ginger-garlic paste
+3. Add spices and tomatoes
+4. Cook chicken until tender
+
+Vegetable Stir Fry
+Ingredients:
+- Mixed vegetables
+- Soy sauce
+- Garlic
+- Ginger
+- Sesame oil
+- Cornstarch
+- Salt and pepper
+
+Instructions:
+1. Heat oil in wok
+2. Stir fry garlic and ginger
+3. Add vegetables
+4. Add sauce and cook until done
+
+Banana Bread
+Ingredients:
+- Ripe bananas
+- Flour
+- Sugar
+- Eggs
+- Butter
+- Baking soda
+- Vanilla extract
+- Cinnamon
+
+Instructions:
+1. Mash bananas
+2. Mix with wet ingredients
+3. Add dry ingredients
+4. Bake at 350°F for 1 hour
+
+Fish Tacos
+Ingredients:
+- White fish fillets
+- Tortillas
+- Cabbage slaw
+- Lime
+- Cilantro
+- Spices
+- Sour cream
+
+Instructions:
+1. Season fish
+2. Cook until flaky
+3. Warm tortillas
+4. Assemble with toppings
+
+Greek Salad
+Ingredients:
+- Cucumber
+- Tomatoes
+- Red onion
+- Feta cheese
+- Olives
+- Olive oil
+- Oregano
+- Salt
+
+Instructions:
+1. Chop vegetables
+2. Add olives and cheese
+3. Dress with oil and oregano
+4. Toss gently
+
+Mushroom Risotto
+Ingredients:
+- Arborio rice
+- Mushrooms
+- Onion
+- White wine
+- Chicken stock
+- Parmesan
+- Butter
+- Garlic
+
+Instructions:
+1. Sauté mushrooms and onions
+2. Add rice and wine
+3. Gradually add stock
+4. Finish with parmesan
+
+Beef Burger
+Ingredients:
+- Ground beef
+- Burger buns
+- Onion
+- Lettuce
+- Tomato
+- Cheese
+- Mayo
+- Ketchup
+
+Instructions:
+1. Form patties
+2. Grill to desired doneness
+3. Toast buns
+4. Assemble with toppings
+
+Apple Pie
+Ingredients:
+- Pie crust
+- Apples
+- Sugar
+- Cinnamon
+- Butter
+- Flour
+- Lemon juice
+- Egg wash
+
+Instructions:
+1. Prepare filling
+2. Line pie dish
+3. Add filling
+4. Top with crust and bake
+
+Chicken Noodle Soup
+Ingredients:
+- Chicken
+- Egg noodles
+- Carrots
+- Celery
+- Onion
+- Chicken broth
+- Bay leaves
+- Parsley
+
+Instructions:
+1. Make broth
+2. Cook vegetables
+3. Add noodles
+4. Season to taste
+
+Vegetable Lasagna
+Ingredients:
+- Lasagna noodles
+- Spinach
+- Ricotta
+- Mozzarella
+- Tomato sauce
+- Zucchini
+- Mushrooms
+- Garlic
+
+Instructions:
+1. Layer sauce
+2. Add noodles
+3. Layer vegetables and cheese
+4. Bake until bubbly
+
+Shrimp Scampi
+Ingredients:
+- Shrimp
+- Linguine
+- Garlic
+- White wine
+- Butter
+- Lemon
+- Parsley
+- Red pepper flakes
+
+Instructions:
+1. Cook pasta
+2. Sauté garlic
+3. Cook shrimp
+4. Toss with pasta
+
+Chicken Caesar Salad
+Ingredients:
+- Romaine lettuce
+- Chicken breast
+- Parmesan
+- Croutons
+- Caesar dressing
+- Anchovies
+- Garlic
+- Lemon
+
+Instructions:
+1. Grill chicken
+2. Prepare dressing
+3. Toss lettuce
+4. Add toppings
+
+Beef Stir Fry
+Ingredients:
+- Beef strips
+- Bell peppers
+- Broccoli
+- Carrots
+- Soy sauce
+- Ginger
+- Garlic
+- Rice
+
+Instructions:
+1. Marinate beef
+2. Cook rice
+3. Stir fry vegetables
+4. Add beef and sauce
+
+Carrot Cake
+Ingredients:
+- Carrots
+- Flour
+- Sugar
+- Eggs
+- Oil
+- Cinnamon
+- Cream cheese
 - Vanilla
+
+Instructions:
+1. Grate carrots
+2. Mix ingredients
+3. Bake cake
+4. Frost when cool
+
+French Toast
+Ingredients:
+- Bread
+- Eggs
+- Milk
+- Vanilla
+- Cinnamon
+- Butter
+- Maple syrup
+- Powdered sugar
+
+Instructions:
+1. Make egg mixture
+2. Soak bread
+3. Cook until golden
+4. Top with syrup
+
+Beef Stew
+Ingredients:
+- Beef chunks
+- Potatoes
+- Carrots
+- Onions
+- Beef broth
+- Red wine
+- Thyme
+- Bay leaves
+
+Instructions:
+1. Brown meat
+2. Add vegetables
+3. Simmer in broth
+4. Season to taste
+
+Lemon Chicken
+Ingredients:
+- Chicken breasts
+- Lemon
+- Garlic
+- White wine
+- Butter
+- Capers
+- Parsley
+- Flour
+
+Instructions:
+1. Dredge chicken
+2. Cook until golden
+3. Make sauce
+4. Serve with sauce
+
+Chocolate Chip Cookies
+Ingredients:
+- Flour
+- Butter
+- Sugar
+- Brown sugar
+- Eggs
+- Vanilla
+- Chocolate chips
+- Baking soda
+
+Instructions:
+1. Cream butter and sugar
+2. Add eggs and vanilla
+3. Mix in dry ingredients
+4. Bake until golden
+
+Sushi Roll
+Ingredients:
+- Sushi rice
+- Nori sheets
+- Fresh fish
+- Cucumber
+- Avocado
+- Rice vinegar
+- Wasabi
+- Soy sauce
+
+Instructions:
+1. Prepare sushi rice
+2. Layer nori with rice
+3. Add fillings
+4. Roll and slice
+
+Pad Thai
+Ingredients:
+- Rice noodles
+- Shrimp
+- Tofu
+- Bean sprouts
+- Peanuts
+- Tamarind sauce
+- Fish sauce
+- Green onions
+
+Instructions:
+1. Soak noodles
+2. Stir fry proteins
+3. Add noodles and sauce
+4. Garnish and serve
+
+Butter Chicken
+Ingredients:
+- Chicken thighs
+- Yogurt
+- Tomato sauce
+- Heavy cream
+- Butter
+- Garam masala
+- Fenugreek
+- Garlic naan
+
+Instructions:
+1. Marinate chicken
+2. Make curry sauce
+3. Cook chicken
+4. Finish with cream
+
+Tiramisu
+Ingredients:
+- Ladyfingers
+- Mascarpone
+- Coffee
+- Eggs
+- Sugar
+- Cocoa powder
+- Rum
+- Vanilla extract
+
+Instructions:
+1. Make coffee mixture
+2. Prepare cream
+3. Layer ingredients
+4. Chill overnight
+
+Falafel
+Ingredients:
+- Chickpeas
+- Parsley
+- Cumin
+- Coriander
+- Garlic
+- Onion
+- Flour
+- Baking soda
+
+Instructions:
+1. Process chickpeas
+2. Form balls
+3. Deep fry
+4. Serve with tahini
+
+Ramen
+Ingredients:
+- Ramen noodles
+- Pork belly
+- Soft boiled eggs
+- Nori
+- Green onions
+- Bamboo shoots
+- Miso paste
+- Chicken stock
+
+Instructions:
+1. Prepare broth
+2. Cook noodles
+3. Prepare toppings
+4. Assemble bowl
+
+Paella
+Ingredients:
+- Bomba rice
+- Shrimp
+- Mussels
+- Chorizo
+- Saffron
+- Bell peppers
+- Peas
+- Chicken stock
+
+Instructions:
+1. Cook sofrito
+2. Add rice and stock
+3. Add seafood
+4. Let form crust
+
+Moussaka
+Ingredients:
+- Eggplant
+- Ground lamb
+- Bechamel sauce
+- Tomatoes
+- Cinnamon
+- Nutmeg
+- Parmesan
+- Potatoes
+
+Instructions:
+1. Layer eggplant
+2. Make meat sauce
+3. Make bechamel
+4. Layer and bake
+
+Pho
+Ingredients:
+- Rice noodles
+- Beef slices
+- Bean sprouts
+- Thai basil
+- Star anise
+- Cinnamon
+- Fish sauce
+- Lime
+
+Instructions:
+1. Make broth
+2. Cook noodles
+3. Prepare garnishes
+4. Serve hot
+
+Bibimbap
+Ingredients:
+- Steamed rice
+- Ground beef
+- Spinach
+- Carrots
+- Mushrooms
+- Gochujang
+- Sesame oil
+- Fried egg
+
+Instructions:
+1. Prepare vegetables
+2. Cook beef
+3. Arrange in bowl
+4. Add egg and sauce
+
+Enchiladas
+Ingredients:
+- Tortillas
+- Chicken
+- Enchilada sauce
+- Cheese
+- Black beans
+- Onions
+- Cilantro
+- Sour cream
+
+Instructions:
+1. Fill tortillas
+2. Roll enchiladas
+3. Cover with sauce
+4. Bake until bubbly
+
+Spanakopita
+Ingredients:
+- Phyllo dough
+- Spinach
+- Feta cheese
+- Eggs
+- Dill
+- Green onions
+- Butter
+- Nutmeg
+
+Instructions:
+1. Mix filling
+2. Layer phyllo
+3. Fill and fold
+4. Bake until golden
+
+Gnocchi
+Ingredients:
+- Potatoes
+- Flour
+- Egg
+- Salt
+- Sage
+- Butter
+- Parmesan
+- Nutmeg
+
+Instructions:
+1. Make dough
+2. Form gnocchi
+3. Boil until done
+4. Serve with sauce
+
+Beef Wellington
+Ingredients:
+- Beef tenderloin
+- Mushroom duxelles
+- Prosciutto
+- Puff pastry
+- Dijon mustard
+- Egg wash
+- Thyme
+- Shallots
+
+Instructions:
+1. Sear beef
+2. Wrap in pastry
+3. Brush with egg
+4. Bake until done
+
+Tom Yum Soup
+Ingredients:
+- Shrimp
+- Lemongrass
+- Kaffir lime leaves
+- Galangal
+- Thai chilies
+- Mushrooms
+- Fish sauce
+- Lime juice
+
+Instructions:
+1. Make broth
+2. Add aromatics
+3. Cook shrimp
+4. Season to taste
+
+Baklava
+Ingredients:
+- Phyllo dough
+- Walnuts
+- Honey
+- Butter
+- Cinnamon
+- Cloves
+- Sugar
+- Rose water
+
+Instructions:
+1. Layer phyllo
+2. Add nut mixture
+3. Bake until golden
+4. Pour syrup
+
+Shepherd's Pie
+Ingredients:
+- Ground lamb
+- Potatoes
+- Carrots
+- Peas
+- Onions
+- Gravy
+- Butter
+- Rosemary
+
+Instructions:
+1. Make filling
+2. Mash potatoes
+3. Layer in dish
+4. Bake until brown
+
+Creme Brulee
+Ingredients:
+- Heavy cream
+- Vanilla bean
+- Egg yolks
+- Sugar
+- Salt
+- Brown sugar
+- Water
+- Berries
+
+Instructions:
+1. Make custard
+2. Bake in water bath
+3. Chill thoroughly
+4. Caramelize sugar
+
+Chicken Marsala
+Ingredients:
+- Chicken breasts
+- Marsala wine
+- Mushrooms
+- Shallots
+- Chicken stock
+- Butter
+- Parsley
+- Flour
+
+Instructions:
+1. Dredge chicken
+2. Make sauce
+3. Cook mushrooms
+4. Combine and serve
+
+Shakshuka
+Ingredients:
+- Eggs
+- Tomatoes
+- Bell peppers
+- Onions
+- Cumin
+- Paprika
+- Feta cheese
+- Parsley
+
+Instructions:
+1. Make sauce
+2. Add eggs
+3. Cover and cook
+4. Garnish and serve
+
+Tandoori Chicken
+Ingredients:
+- Chicken legs
+- Yogurt
+- Tandoori masala
+- Ginger
+- Garlic
+- Lemon
+- Oil
+- Mint chutney
+
+Instructions:
+1. Marinate chicken
+2. Prepare grill
+3. Cook chicken
+4. Serve with naan
+
+Lobster Thermidor
+Ingredients:
+- Lobster
+- Bechamel sauce
+- Mushrooms
+- Shallots
+- White wine
+- Gruyere cheese
+- Mustard
+- Tarragon
+
+Instructions:
+1. Cook lobster
+2. Make sauce
+3. Fill shells
+4. Broil until brown
+
+Osso Buco
+Ingredients:
+- Veal shanks
+- White wine
+- Carrots
+- Celery
+- Onions
+- Tomatoes
+- Gremolata
+- Stock
+
+Instructions:
+1. Brown meat
+2. Make sauce
+3. Braise slowly
+4. Top with gremolata
+
+Chicken Kiev
+Ingredients:
+- Chicken breasts
+- Herb butter
+- Breadcrumbs
+- Parsley
+- Garlic
+- Eggs
+- Flour
+- Lemon
+
+Instructions:
+1. Prepare butter
+2. Stuff chicken
+3. Bread and fry
+4. Serve hot
+
+Beef Stroganoff
+Ingredients:
+- Beef strips
+- Mushrooms
+- Sour cream
+- Egg noodles
+- Onions
+- Beef stock
+- Paprika
+- Mustard
+
+Instructions:
+1. Cook noodles
+2. Sauté beef
+3. Make sauce
+4. Combine all
+
+Duck à l'Orange
+Ingredients:
+- Duck
+- Orange juice
+- Orange zest
+- White wine
+- Sugar
+- Stock
+- Butter
+- Grand Marnier
+
+Instructions:
+1. Roast duck
+2. Make sauce
+3. Reduce sauce
+4. Serve together
+
+Coq au Vin
+Ingredients:
+- Chicken
+- Red wine
+- Bacon
+- Pearl onions
+- Mushrooms
+- Thyme
+- Bay leaves
+- Butter
+
+Instructions:
+1. Brown chicken
+2. Cook vegetables
+3. Braise in wine
+4. Reduce sauce
+
+Beef Bourguignon
+Ingredients:
+- Beef chunks
+- Red wine
+- Bacon
+- Pearl onions
+- Mushrooms
+- Carrots
+- Thyme
+- Stock
+
+Instructions:
+1. Brown meat
+2. Cook vegetables
+3. Braise in wine
+4. Simmer until tender
+
+Cassoulet
+Ingredients:
+- White beans
+- Duck confit
+- Sausage
+- Bacon
+- Tomatoes
+- Breadcrumbs
+- Garlic
+- Herbs
+
+Instructions:
+1. Cook beans
+2. Prepare meats
+3. Layer ingredients
+4. Bake slowly
+
+Bouillabaisse
+Ingredients:
+- Mixed seafood
+- Fish stock
+- Fennel
+- Tomatoes
+- Saffron
+- Garlic
+- Orange zest
+- Rouille
+
+Instructions:
+1. Make broth
+2. Cook vegetables
+3. Add seafood
+4. Serve with rouille
+
+Ratatouille
+Ingredients:
+- Eggplant
+- Zucchini
+- Tomatoes
+- Bell peppers
+- Onions
+- Garlic
+- Herbs
+- Olive oil
+
+Instructions:
+1. Prepare vegetables
+2. Layer in dish
+3. Bake slowly
+4. Serve hot or cold
+
+Quiche Lorraine
+Ingredients:
+- Pie crust
+- Eggs
+- Cream
+- Bacon
+- Gruyere
+- Nutmeg
+- Onions
+- Parsley
+
+Instructions:
+1. Blind bake crust
+2. Cook filling
+3. Add custard
+4. Bake until set
+
+Chicken Piccata
+Ingredients:
+- Chicken breasts
+- Capers
+- Lemon
+- White wine
+- Butter
+- Flour
+- Parsley
+- Stock
+
+Instructions:
+1. Pound chicken
+2. Dredge and cook
+3. Make sauce
+4. Serve with pasta
+
+Beef Carpaccio
+Ingredients:
+- Beef tenderloin
+- Arugula
+- Parmesan
+- Olive oil
+- Lemon
+- Capers
+- Black pepper
+- Mustard
+
+Instructions:
+1. Freeze beef
+2. Slice thinly
+3. Arrange on plate
+4. Add toppings
+
+Seafood Paella
+Ingredients:
+- Bomba rice
+- Mixed seafood
+- Saffron
+- Tomatoes
+- Peas
+- Bell peppers
+- Stock
+- Garlic
+
+Instructions:
+1. Make sofrito
+2. Add rice
+3. Add seafood
+4. Create socarrat
+
+Chicken Tagine
+Ingredients:
+- Chicken
+- Preserved lemon
+- Olives
+- Saffron
+- Ginger
+- Turmeric
+- Couscous
+- Cilantro
+
+Instructions:
+1. Marinate chicken
+2. Layer ingredients
+3. Cook slowly
+4. Serve with couscous
+
+Beef Rendang
+Ingredients:
+- Beef chunks
+- Coconut milk
+- Lemongrass
+- Galangal
+- Chili paste
+- Kaffir lime
+- Turmeric
+- Rice
+
+Instructions:
+1. Make paste
+2. Cook beef
+3. Reduce sauce
+4. Serve with rice
+
+Moules Marinière
+Ingredients:
+- Mussels
+- White wine
+- Shallots
+- Garlic
+- Parsley
+- Cream
+- Butter
+- Baguette
+
+Instructions:
+1. Clean mussels
+2. Make sauce
+3. Steam mussels
+4. Serve with bread
+
+Chicken Saltimbocca
+Ingredients:
+- Chicken breasts
+- Prosciutto
+- Sage
+- White wine
+- Butter
+- Flour
+- Stock
+- Capers
+
+Instructions:
+1. Prepare chicken
+2. Roll with filling
+3. Cook until done
+4. Make sauce
+
+Vitello Tonnato
+Ingredients:
+- Veal
+- Tuna
+- Anchovies
+- Capers
+- Mayo
+- Lemon
+- White wine
+- Herbs
+
+Instructions:
+1. Cook veal
+2. Make sauce
+3. Slice meat
+4. Top with sauce
+
+Lamb Biryani
+Ingredients:
+- Lamb
+- Basmati rice
+- Saffron
+- Onions
+- Yogurt
+- Spices
+- Mint
+- Nuts
+
+Instructions:
+1. Marinate lamb
+2. Par-cook rice
+3. Layer and steam
+4. Garnish and serve
+
+Seafood Risotto
+Ingredients:
+- Arborio rice
+- Mixed seafood
+- White wine
+- Fish stock
+- Saffron
+- Parmesan
+- Butter
+- Parsley
+
+Instructions:
+1. Cook seafood
+2. Make risotto
+3. Combine all
+4. Finish with butter
+
+Chicken Cordon Bleu
+Ingredients:
+- Chicken breasts
+- Ham
+- Swiss cheese
+- Breadcrumbs
+- Eggs
+- Flour
+- Butter
+- Herbs
+
+Instructions:
+1. Stuff chicken
+2. Bread cutlets
+3. Fry until golden
+4. Serve hot
+
+Thai Green Curry
+Ingredients:
+- Chicken
+- Coconut milk
+- Green curry paste
+- Bamboo shoots
+- Thai basil
+- Fish sauce
+- Palm sugar
+- Rice
+
+Instructions:
+1. Make curry base
+2. Cook chicken
+3. Add vegetables
+4. Serve with rice
+
+Beef Tataki
+Ingredients:
+- Beef tenderloin
+- Ponzu sauce
+- Green onions
+- Garlic
+- Ginger
+- Sesame seeds
+- Daikon
+- Shiso
+
+Instructions:
+1. Sear beef
+2. Slice thinly
+3. Make sauce
+4. Garnish and serve
+
+Chicken Cacciatore
+Ingredients:
+- Chicken pieces
+- Tomatoes
+- Bell peppers
+- Mushrooms
+- Wine
+- Herbs
+- Olives
+- Garlic
+
+Instructions:
+1. Brown chicken
+2. Make sauce
+3. Simmer together
+4. Serve with pasta
+
+Seafood Cioppino
+Ingredients:
+- Mixed seafood
+- Tomatoes
+- White wine
+- Fennel
+- Garlic
+- Red pepper
+- Herbs
+- Stock
+
+Instructions:
+1. Make broth
+2. Cook vegetables
+3. Add seafood
+4. Serve with bread
+
+Duck Confit
+Ingredients:
+- Duck legs
+- Duck fat
+- Garlic
+- Thyme
+- Bay leaves
+- Salt
+- Pepper
+- Potatoes
+
+Instructions:
+1. Cure duck
+2. Cook in fat
+3. Crisp skin
+4. Serve hot
+
+Lobster Newburg
+Ingredients:
+- Lobster
+- Cream
+- Sherry
+- Egg yolks
+- Butter
+- Cayenne
+- Nutmeg
+- Toast points
+
+Instructions:
+1. Cook lobster
+2. Make sauce
+3. Combine gently
+4. Serve on toast
+
+Veal Saltimbocca
+Ingredients:
+- Veal cutlets
+- Prosciutto
+- Sage
+- White wine
+- Butter
+- Flour
+- Stock
+- Lemon
+
+Instructions:
+1. Prepare veal
+2. Cook quickly
+3. Make sauce
+4. Serve hot
+
+Seafood Fra Diavolo
+Ingredients:
+- Mixed seafood
+- Tomatoes
+- Red pepper
+- Garlic
+- Wine
+- Herbs
+- Pasta
+- Olive oil
+
+Instructions:
+1. Cook pasta
+2. Make sauce
+3. Cook seafood
+4. Combine all
+
+Chicken Vesuvio
+Ingredients:
+- Chicken pieces
+- Potatoes
+- White wine
+- Garlic
+- Peas
+- Oregano
+- Olive oil
+- Stock
+
+Instructions:
+1. Brown chicken
+2. Add potatoes
+3. Roast together
+4. Add peas last
+
+Osso Buco Milanese
+Ingredients:
+- Veal shanks
+- White wine
+- Gremolata
+- Risotto
+- Vegetables
+- Stock
+- Tomatoes
+- Herbs
+
+Instructions:
+1. Brown meat
+2. Make sauce
+3. Braise slowly
+4. Serve with risotto
+
+Beef Carpaccio
+Ingredients:
+- Beef tenderloin
+- Arugula
+- Parmesan
+- Olive oil
+- Lemon
+- Capers
+- Mustard
+- Black pepper
+
+Instructions:
+1. Freeze beef
+2. Slice thinly
+3. Arrange on plate
+4. Add garnishes
+
+Veal Marsala
+Ingredients:
+- Veal scaloppine
+- Marsala wine
+- Mushrooms
+- Shallots
+- Stock
+- Butter
+- Flour
+- Parsley
+
+Instructions:
+1. Pound veal
+2. Make sauce
+3. Cook quickly
+4. Serve hot
+
+Chicken Francese
+Ingredients:
+- Chicken breasts
+- Eggs
+- Flour
+- Lemon
+- White wine
+- Butter
+- Parsley
+- Stock
+
+Instructions:
+1. Dredge chicken
+2. Cook in butter
+3. Make sauce
+4. Serve hot
+
+Seafood Thermidor
+Ingredients:
+- Mixed seafood
+- Bechamel
+- Wine
+- Mustard
+- Cheese
+- Mushrooms
+- Shallots
+- Herbs
+
+Instructions:
+1. Cook seafood
+2. Make sauce
+3. Fill shells
+4. Broil until brown
+
+Recipe from Image:
+Gramola Balls
+
+diem 8
+2 Loup phim rolled oats.
+» 4 lablespoons Vex send
+
+© 4 “Tablespoon hones)
+
+> 2 Lablespoons milk
+= 1/2 oup shnadded acconiet
+
+Tnctructoré 3 ord
+ree tha. Teeuediems exeapt bene
+pamnus— putes VY
+
+_ rons:
+mixtuo— OVO ae
+GN mio bs OF nee)
+
+9.
+
+Recipe from Image:
+| Frozen ruity fopurt oes
+mnadientS?
+200 ratuna\ . ioe
+ren we
+» Rend) raspbeuues .
+Tnemuction?
+4. Fut 12 cupaake aases “nty a oral
+tray .
+2. Use a Apes 0 drop some. ep ure Frto
+
+eaoh Case.
+6. Per a Sew pease of tush Tle eact cul
+
+Som ‘tato Nhe Hop urs cor
+
+halen
+
+and prsse
+
+a= ragae
+
+4, Froove I 2 Yours or vent Zo\id .
+and Arve:
+
+5 Pop oud the. SOS
+
+Pasta Recipe
+Ingredients:
+- Pasta
+- Tomato sauce
+Instructions:
+1. Cook pasta
+2. Add sauce

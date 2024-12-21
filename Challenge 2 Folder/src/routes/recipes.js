@@ -20,13 +20,17 @@ const storage = multer.diskStorage({
 const upload = multer({ 
     storage: storage,
     fileFilter: (req, file, cb) => {
+        if (!file) {
+            cb(new Error('No file uploaded'), false);
+            return;
+        }
         if (file.mimetype.startsWith('image/')) {
             cb(null, true);
         } else {
             cb(new Error('Not an image! Please upload an image.'), false);
         }
     }
-});
+}).single('recipe');
 
 // Create uploads directory if it doesn't exist
 const uploadsDir = path.join(__dirname, '../../uploads');
@@ -59,20 +63,27 @@ router.post('/', async (req, res) => {
 });
 
 // Add new recipe from image
-router.post('/image', upload.single('recipe'), async (req, res) => {
-    try {
-        if (!req.file) {
-            return res.status(400).json({ error: 'No image file uploaded' });
-        }
+router.post('/image', (req, res) => {
+    upload(req, res, async (err) => {
+        try {
+            if (err) {
+                return res.status(400).json({ error: err.message });
+            }
+            
+            if (!req.file) {
+                return res.status(400).json({ error: 'No image file uploaded' });
+            }
 
-        const extractedRecipe = await ImageProcessor.saveRecipeFromImage(req.file.path);
-        res.status(201).json({ 
-            message: 'Recipe extracted and added successfully',
-            extractedText: extractedRecipe
-        });
-    } catch (error) {
-        res.status(500).json({ error: 'Error processing recipe image' });
-    }
+            const extractedRecipe = await ImageProcessor.saveRecipeFromImage(req.file.path);
+            res.status(201).json({ 
+                message: 'Recipe extracted and added successfully',
+                extractedText: extractedRecipe
+            });
+        } catch (error) {
+            console.error('Error processing image:', error);
+            res.status(500).json({ error: 'Error processing recipe image: ' + error.message });
+        }
+    });
 });
 
 // Search recipes by query
